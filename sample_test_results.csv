@@ -1,0 +1,9 @@
+TestID,Force,Temperature,Pass
+1,110,45,Yes
+2,120,47,Yes
+3,170,52,No
+4,115,44,Yes
+5,180,55,No
+6,125,46,Yes
+7,130,48,Yes
+8,190,57,No

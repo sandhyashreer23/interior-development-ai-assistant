@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the purpose of this protocol?",
+    "expected_answer": "vehicle rating"
+  },
+  {
+    "question": "What does Euro NCAP assess?",
+    "expected_answer": "vehicle safety"
+  },
+  {
+    "question": "Does the protocol include occupant protection?",
+    "expected_answer": "occupant protection"
+  },
+  {
+    "question": "What is the overall assessment protocol used for?",
+    "expected_answer": "assessment"
+  },
+  {
+    "question": "Which organization published this protocol?",
+    "expected_answer": "Euro NCAP"
+  }
+]

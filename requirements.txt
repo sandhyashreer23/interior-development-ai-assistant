@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+sentence-transformers
+pandas
+openpyxl
+PyPDF2
+python-docx
+python-dotenv
